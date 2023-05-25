@@ -56,9 +56,6 @@ def word_quest():
     print("\nThank you for playing Word Quest!")
 
 
-
-def subash():
-    print("Subash")
 # Start the game
-subash()
+
 word_quest()
