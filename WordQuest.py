@@ -2,7 +2,7 @@ def word_quest():
     print("Welcome to Word Quest!")
     print("Let your word choices guide you on an exciting adventure.")
 
-    points = 0
+    points = 1
 
     # Scenario 1
     print("\nScenario 1:")
@@ -55,5 +55,10 @@ def word_quest():
 
     print("\nThank you for playing Word Quest!")
 
+
+
+def subash():
+    print("Subash")
 # Start the game
+subash()
 word_quest()
